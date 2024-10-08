@@ -1,0 +1,7 @@
+//we specified es2022 as the target, which represents the most recent version of the JavaScript language at the time of writing.
+
+{
+  "compilerOptions": {
+    "target": "ES2022"
+  }
+}
